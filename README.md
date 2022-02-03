@@ -10,6 +10,6 @@ Folder with saved model: **keras_model**
 
 Streamlit application for testing the model: **streamlit_app.py**
 
-Article: 
+Article: https://medium.com/@andrii.gozhulovskyi/
 
 Link to Streamlit app: https://share.streamlit.io/andriigoz/traffic_signs_classification
