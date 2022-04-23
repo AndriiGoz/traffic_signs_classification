@@ -4,3 +4,4 @@ opencv-python-headless
 Pillow==9.0.0
 streamlit==1.4.0
 tensorflow==2.7.0
+click==8
